@@ -17,7 +17,8 @@ Object detection is done via HC-SR04 ultrasonic sensor.
 
 ---
 
-![Laser turret](images/laser_turret.jpg)
+![Laser turret](images2/laser_turret.png
+)
 
 ---
 

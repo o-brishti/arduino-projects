@@ -8,7 +8,7 @@
 - Breadboard
 - Wires, resistors, header pins (optional)
 - Buzzer
-- Time (lots of it)
+- Time 
 
 ### Aim
 To achieve absolutely nothing —  
@@ -17,8 +17,7 @@ Object detection is done via HC-SR04 ultrasonic sensor.
 
 ---
 
-![Laser turret](images2/laser_turret.png
-)
+![Laser turret](arduino-projects/images2/laser_turret.png)
 
 ---
 

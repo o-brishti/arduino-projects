@@ -17,7 +17,4 @@ Object detection is done via HC-SR04 ultrasonic sensor.
 
 ---
 
-![Laser turret](arduino-projects/images2/laser_turret.png)
-
----
 
